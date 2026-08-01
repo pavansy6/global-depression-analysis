@@ -150,7 +150,3 @@ Disclaimer: This software is an experimental predictive modeling pipeline for ed
 * **Clinical Thresholds:** While the U.S. model utilizes the validated PHQ-9 screening threshold (>= 10), survey-based datasets (India and OSMI Tech) rely on self-reported screening parameters.
 * **Deployment Guidance:** Models should never be deployed for clinical decision-making without domain professional oversight, prospective clinical validation, and ethical review regarding patient privacy and subgroup fairness.
 '@ | Out-File -FilePath "README.md" -Encoding utf8
-
-```
-
-```
